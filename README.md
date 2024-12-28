@@ -1,4 +1,4 @@
-# log_analyzer_python_pandas
+# Web Log Analyzer and Anomaly Detector
 
 This project is a Jupyter notebook that analyzes web server access log files (in Apache Common Log Format) to extract valuable information and detect potential anomalies, such as brute force attempts and vulnerability scans.
 Description
