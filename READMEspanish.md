@@ -1,4 +1,4 @@
-
+# Web Log Analyzer and Anomaly Detector
 
 Este proyecto consiste en un notebook de Jupyter que analiza archivos de log de acceso a un servidor web (en formato Apache Common Log Format) para obtener información valiosa y detectar posibles anomalías, como intentos de fuerza bruta y escaneos de vulnerabilidades.
 
